@@ -60,3 +60,5 @@ Ym = proportion of fertile women dying in the pandemic
 ### Bibliography:
 
 https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/publicacoes/publicacoes-e-analise/relatorio-de-conjuntura/custos_economicos_criminalidade_brasil.pdf?fbclid=IwAR0TOj5Ep0e2UxI6OwZ1c2Eq_pdTdoolzCOt9UXMV_zx4e4hrHiWuG50Tmw
+
+https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Global-Impact-26-03-2020.pdf?fbclid=IwAR2YL4lUosjUeoDP-IpaKB_Z2PaRk_-tZU-zwrZrlXFl01Cj5p82CzSiDNE
