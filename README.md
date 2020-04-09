@@ -1,10 +1,10 @@
 # COVID-19 Lockdown: Economic Costs
 
-A principal forma adotada para combater a pandemia COVID-19 tem sido o isolamento social, que pode evoluir até o confinamento. Essa medida acarreta diminuição da capacidade produtiva. O objetivo desse trabalho é estimar os custos da redução da capacidade produtiva por isolamento e confinamento e correlacioná-lo com os custos de perda da capacidade produtiva por óbitos devido aos efeitos da pandemia. 
+The main way adopted to combat the COVID-19 pandemic is social isolation, which can evolve into confinement. This leads to a decrease in production capacity. The objective of this work is to estimate the costs of this reduction and to correlate it with the costs of loss of production capacity due to the fatal effects of the pandemic so that government authorities can take conscious actions. 
 
-# Método:
+### Method:
 
-A equação inicial considera que os custos de uma quarentena podem resultar em perdas econômicas que, ultrapassando os custos de perda de capacidade produtiva, acarretarão mazelas sociais que se desdobrariam maiores perdas futuras, típicas de cenários de depressão econômica. 
+The initial equation considers that the costs of a quarantine can result in economic losses that - exceeding the costs of loss of productive capacity, will cause social problems that would result in greater future losses, typical of economic depression scenarios.
 
 Por isso: 
 
@@ -60,6 +60,6 @@ Ym = Índice de mulheres férteis morrendo na pandemia
 ```
 
 
-### Bibliografia:
+### Bibliography:
 
 https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/publicacoes/publicacoes-e-analise/relatorio-de-conjuntura/custos_economicos_criminalidade_brasil.pdf?fbclid=IwAR0TOj5Ep0e2UxI6OwZ1c2Eq_pdTdoolzCOt9UXMV_zx4e4hrHiWuG50Tmw
