@@ -6,13 +6,11 @@ The main way adopted to combat the COVID-19 pandemic is social isolation, which 
 
 The initial equation considers that the costs of a quarantine can result in economic losses that - exceeding the costs of loss of productive capacity, will cause social problems that would result in greater future losses, typical of economic depression scenarios.
 
-Por isso: 
-
 ```
 Ti = Cpcp <= Cedi * D
 ```
 
-Onde:
+Where:
 
 ```
 Ti   = tempo de isolamento
@@ -25,19 +23,19 @@ D    = dias de isolamento
 Cpcp = (Wd/Tcp) + ((N^t) + (L/M*Yw))
 ```
 
-Onde:
+Where:
 
 ```
 Wd = z' * Pcp
 ```
 
-Onde:
+Where:
 ```
 z'  = derivada do valor produtivo por faixa etária
 Pcp = Perda da capacidade produtiva (número de mortes)
 ```
 
-E: 
+And: 
 
 ```
 Tcp = Tempo de capacidade produtiva (o quanto um trabalhador dura)
@@ -46,13 +44,13 @@ t   = range temporal futuro a ser considerado
 L   = Início da vida produtiva (e.g., maioridade laboral da comunidade)
 M   = Proporção de mulheres na população
 ```
-E: 
+And: 
 
 ```
 Yw = c' * Ym
 ```
 
-Onde: 
+Where: 
 
 ```
 c' = derivada do valor produtivo por faixa etária futura 
