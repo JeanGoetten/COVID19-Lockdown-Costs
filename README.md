@@ -53,7 +53,7 @@ Yw = z' * Ym
 Where: 
 
 ```
-Ym = Índice de mulheres férteis morrendo na pandemia
+Ym = proportion of fertile women dying in the pandemic
 ```
 
 
