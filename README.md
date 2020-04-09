@@ -1,2 +1,2 @@
-# COVID19 Lockdown: Economic Costs
+# COVID-19 Lockdown: Economic Costs
 
