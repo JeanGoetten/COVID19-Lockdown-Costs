@@ -4,7 +4,7 @@ The main way adopted to combat the COVID-19 pandemic is social isolation, which 
 
 ### Method:
 
-The initial equation considers that the costs of a quarantine can result in economic losses that - exceeding the costs of loss of productive capacity, will cause social problems that would result in greater future losses, typical of economic depression scenarios.
+The initial equation considers that the aftereffects of a quarantine could result in economic losses that - exceeding the costs of losing productive capacity, would lead to social problems that could result in greater long-term losses, caracteristic of economic depression scenarios.
 
 ```
 Ti = Cpcp <= Cedi * D
@@ -13,10 +13,10 @@ Ti = Cpcp <= Cedi * D
 Where:
 
 ```
-Ti   = tempo de isolamento
-Cpcp = Custo de perda de capcidade produtiva
-Cedi = Custo econômico diário por isolamento
-D    = dias de isolamento
+Ti   = isolation time
+Cpcp = Cost of loss of productive capacity
+Cedi = Daily economic cost for isolation
+D    = isolation days
 ```
 
 ```
@@ -31,29 +31,28 @@ Wd = z' * Pcp
 
 Where:
 ```
-z'  = derivada do valor produtivo por faixa etária
-Pcp = Perda da capacidade produtiva (número de mortes)
+z'  = average productive value in the affected age group
+Pcp = loss of productive capacity (number of deaths)
 ```
 
 And: 
 
 ```
-Tcp = Tempo de capacidade produtiva (o quanto um trabalhador dura)
-N   = taxa de natalidade da comunidade
-t   = range temporal futuro a ser considerado
-L   = Início da vida produtiva (e.g., maioridade laboral da comunidade)
-M   = Proporção de mulheres na população
+Tcp = average total productive capacity time per individual
+N   = local birth rate
+t   = future time range of the impact of loss of birth to be considered
+L   = average start of local productive life
+M   = proportion of women in the local population
 ```
 And: 
 
 ```
-Yw = c' * Ym
+Yw = z' * Ym
 ```
 
 Where: 
 
 ```
-c' = derivada do valor produtivo por faixa etária futura 
 Ym = Índice de mulheres férteis morrendo na pandemia
 ```
 
