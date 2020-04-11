@@ -20,13 +20,14 @@ D    = isolation days
 ```
 
 ```
-Cpcp = (z * Pcp) + ((Ym*N)^t*(P*(M/100)) * Vicp))
+Cpcp = (Pcp * v) + ((Ym*N)^t*(P*(M/100)) * V))
 ```
 
 Where:
+
 ```
-z  = average productive value in the affected age group
 Pcp = loss of productive capacity (total number of deaths)
+v   = average productive value in the affected age group
 ```
 
 And: 
@@ -42,7 +43,7 @@ M   = proportion of women in the local population
 And: 
 
 ```
-Vicp = valor máximo de uma capacidade produtiva
+V = valor máximo de uma capacidade produtiva
 ```
 
 ### Bibliography:
