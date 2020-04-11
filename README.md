@@ -20,12 +20,12 @@ D    = isolation days
 ```
 
 ```
-Cpcp = (z' * Pcp) + ((Ym*N)^t*(P*(M/100)) * Vicp))
+Cpcp = (z * Pcp) + ((Ym*N)^t*(P*(M/100)) * Vicp))
 ```
 
 Where:
 ```
-z'  = average productive value in the affected age group
+z  = average productive value in the affected age group
 Pcp = loss of productive capacity (total number of deaths)
 ```
 
