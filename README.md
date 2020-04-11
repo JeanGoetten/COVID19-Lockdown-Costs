@@ -20,42 +20,30 @@ D    = isolation days
 ```
 
 ```
-Cpcp = (Wd/Tcp) + ((N^t) + (L/M*Yw))
-```
-
-Where:
-
-```
-Wd = z' * Pcp
+Cpcp = (z' * Pcp) + ((Ym*N)^t*(P*(M/100)) * Vicp))
 ```
 
 Where:
 ```
 z'  = average productive value in the affected age group
-Pcp = loss of productive capacity (number of deaths)
+Pcp = loss of productive capacity (total number of deaths)
 ```
 
 And: 
 
 ```
-Tcp = average total productive capacity time per individual
+Ym  = total of fertile women dying in the pandemic
 N   = local birth rate
-t   = future time range of the impact of loss of birth to be considered
-L   = average start of local productive life
+t   = future time range of the impact of loss of birth rate to be considered
+P   = população total
 M   = proportion of women in the local population
 ```
+
 And: 
 
 ```
-Yw = z' * Ym
+Vicp = valor máximo de uma capacidade produtiva
 ```
-
-Where: 
-
-```
-Ym = proportion of fertile women dying in the pandemic
-```
-
 
 ### Bibliography:
 
